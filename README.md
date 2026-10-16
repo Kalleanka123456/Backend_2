@@ -6,7 +6,7 @@ Ett undervisningsexempel på ett REST API i Node.js som registrerar lyxprodukter
 
 ## Förutsättningar och installation
 
-Projektet kräver Node.js 22 eller senare.
+Projektet kräver Node.js 22.12 eller senare.
 
 ```powershell
 npm install
